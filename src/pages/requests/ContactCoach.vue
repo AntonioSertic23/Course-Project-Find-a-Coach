@@ -77,14 +77,14 @@ textarea {
 
 input:focus,
 textarea:focus {
-  border-color: #3d008d;
+  border-color: #34495e;
   background-color: #faf6ff;
   outline: none;
 }
 
 .errors {
   font-weight: bold;
-  color: red;
+  color: crimson;
 }
 
 .actions {

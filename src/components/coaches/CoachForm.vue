@@ -182,9 +182,9 @@ textarea {
 
 input:focus,
 textarea:focus {
-  background-color: #f0e6fd;
+  background-color: #efe;
   outline: none;
-  border-color: #34495e;
+  border-color: #386641;
 }
 
 input[type='checkbox'] {
@@ -194,7 +194,7 @@ input[type='checkbox'] {
 }
 
 input[type='checkbox']:focus {
-  outline: #34495e solid 1px;
+  outline: #386641 solid 1px;
 }
 
 h3 {

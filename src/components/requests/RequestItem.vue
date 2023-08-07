@@ -26,14 +26,14 @@ li {
 }
 
 a {
-  color: #34495e;
+  color: #386641;
   text-decoration: none;
   font-weight: bold;
 }
 
 a:hover,
 a:active {
-  color: #41b883;
+  color: #a7c957;
 }
 
 p {

@@ -131,8 +131,8 @@ textarea {
 
 input:focus,
 textarea:focus {
-  border-color: #34495e;
-  background-color: #faf6ff;
+  border-color: #386641;
+  background-color: #efe;
   outline: none;
 }
 
